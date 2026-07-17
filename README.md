@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Senior Software Engineer • Cloud Architect • Data Science & AI/ML Enthusiast
+  Software Engineer • Cloud Architect • Data Science & AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Software Engineer** with over **10 years of experience** designing, developing, and deploying high-performance, scalable web applications. My focus lies in bridging the gap between premium front-end aesthetics and robust, secure back-end infrastructure. 
+I am a **Senior Software Engineer** with over **4 years of experience** designing, developing, and deploying high-performance, scalable web applications. My focus lies in bridging the gap between premium front-end aesthetics and robust, secure back-end infrastructure. 
 
 Currently, I am architecting advanced digital media and market intelligence platforms, emphasizing clean editorial design, dynamic sector-based content delivery, and enterprise-level security. I thrive at the intersection of **software engineering**, **cloud architecture**, and **data science**, consistently building secure, automated, and lightning-fast applications.
 

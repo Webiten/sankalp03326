@@ -1,42 +1,56 @@
-<h1 align="center">Hi there, I'm Sankalp Gupta 👋</h1>
-<h3 align="center">Full Stack Developer | Building things end-to-end, from pixels to APIs</h3>
+<h1 align="center">Hi there, I'm Sankalp Varshney 👋</h1>
+<h3 align="center">Full Stack Web Developer | WordPress • React • Cloud Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+JavaScript+%7C+Web+Dev;Always+shipping+something+new;Open+to+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%7C+4%2B+Years+Experience;WordPress+%7C+React+%7C+Next.js+%7C+PHP;Building+%26+Scaling+Cloud+Infrastructure;Currently+leveling+up+in+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sankalp03326"><img src="https://komarev.com/ghpvc/?username=sankalp03326&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" /></a>
   <a href="https://github.com/sankalp03326?tab=followers"><img src="https://img.shields.io/github/followers/sankalp03326?label=Followers&style=flat&color=2E9EF7" alt="Followers" /></a>
-  <a href="https://github.com/sankalp03326?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=2E9EF7&label=Repositories&query=public_repos&url=https://api.github.com/users/sankalp03326" alt="Repos" /></a>
+  <a href="https://www.linkedin.com/in/sankalp-varshney8445"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm a **Full Stack Developer** working across the web stack — front to back.
-- 🌱 Currently sharpening my skills in modern web frameworks and backend architecture.
-- 💬 Ask me about **Java, JavaScript, HTML/CSS**, and general web development.
-- ⚡ Fun fact: I like turning small ideas into working projects — check out my repos!
-- 📫 Reach me: *add your email / LinkedIn here*
+- 💼 **Full Stack Web Developer** with **4+ years** of experience designing, developing, deploying, and maintaining scalable web applications.
+- 🏢 Currently building the **ENERGDIVE ecosystem** at **ITEN Media Pvt. Ltd.** — website, club platform, resource hub, job board, magazine, discussion forum, paper submission portal, and custom authentication.
+- ☁️ Deep hands-on experience with **DigitalOcean infrastructure** (Droplets, Managed DBs, Spaces, Firewalls, SSL, Nginx, PM2, DNS) and currently building expertise in **AWS** (EC2, S3, Route53, Lambda, CloudWatch).
+- ⚙️ Passionate about **CI/CD automation** — I build GitHub Actions pipelines for staging & production deployments.
+- 🌱 Currently learning: **AWS Cloud Practitioner**, **Docker**, and **DevOps** practices.
+- 📍 Based in New Delhi, India.
+- 📫 Reach me at **sankalpvarshney376@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </p>
 
-> 💡 Not using one of these (yet)? Delete the badge — or add ones for React Native, MongoDB, Spring Boot, etc. as you pick them up.
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+**Backend & CMS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,mysql" />
+</p>
+
+**Cloud & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,digitalocean,linux,nginx" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,docker" />
+</p>
 
 ---
 
@@ -53,6 +67,20 @@
 
 ---
 
+### 💼 Experience Timeline
+
+| Role | Company | Duration |
+|---|---|---|
+| Full Stack Web Developer | ITEN Media Pvt. Ltd. | Aug 2025 – Present |
+| Web Developer | Stryv Solutions Pvt. Ltd. | Aug 2024 – Jun 2025 |
+| Web Developer | Blustone Media | Mar 2024 – Aug 2024 |
+| Web Developer | UCA Consulting | Nov 2023 – Mar 2024 |
+| WordPress Developer | Mob Fountain Media | Aug 2022 – Jun 2023 |
+| WordPress PHP Developer | Akounto Service Pvt. Ltd. | Feb 2022 – Aug 2022 |
+| Website Developer | APK Perks Pvt. Ltd. | Aug 2021 – Feb 2022 |
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description |
@@ -62,18 +90,25 @@
 | [Core Java Projects](https://github.com/sankalp03326/Core-Java-master) | Collection of core Java concepts & practice |
 | [Demo Website](https://github.com/sankalp03326/Demo-Website-master) | A demo website built with HTML/CSS/JS |
 
-> ✏️ Pin your best repos on your GitHub profile (Customize your pins → select up to 6) so they show up automatically above your README.
+> ✏️ Pin your best repos (Customize your pins → select up to 6) so they show visually below the README — great spot for real ENERGDIVE/client work if you have public repos or case studies to link.
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **Diploma in Computer Science & Engineering** — GLA University (2022)
+- 📜 AWS Cloud Practitioner *(In Progress)*
+- 📜 Docker *(Learning)*
+- 📜 DevOps *(Learning)*
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:sankalpvarshney376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sankalp-varshney8445"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sankalp03326"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>

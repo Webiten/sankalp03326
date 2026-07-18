@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="326" viewBox="0 0 690 326" role="img" aria-labelledby="svg-fdcba073bc-title svg-fdcba073bc-desc" style="max-width:100%;height:auto;">
+<title id="svg-fdcba073bc-title">neofetch</title>
+<desc id="svg-fdcba073bc-desc">Neofetch-style profile card for Sankalp Varshney</desc>
+<rect width="690" height="326" fill="#0d1117" rx="10" />
+<rect x="0.5" y="0.5" width="689" height="325" rx="10" fill="#0d1117" stroke="#30363d" />
+<path d="M 10 0 H 680 Q 690 0 690 10 V 38 H 0 V 10 Q 0 0 10 0 Z" fill="#161b22" />
+<line x1="0" y1="38" x2="690" y2="38" stroke="#30363d" />
+<circle cx="20" cy="19" r="5.5" fill="#ff5f56" />
+<circle cx="38" cy="19" r="5.5" fill="#ffbd2e" />
+<circle cx="56" cy="19" r="5.5" fill="#27c93f" />
+<text x="345.0" y="24" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b949e">neofetch</text>
+<defs>
+<clipPath id="svg-fdcba073bc-clip-0">
+<rect x="26.0" y="60.0" width="0" height="24">
+<animate attributeName="width" from="0" to="153.1" begin="0.200s" dur="0.271s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-1">
+<rect x="26.0" y="80.0" width="0" height="24">
+<animate attributeName="width" from="0" to="153.1" begin="0.551s" dur="0.271s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-2">
+<rect x="26.0" y="100.0" width="0" height="24">
+<animate attributeName="width" from="0" to="225.7" begin="0.903s" dur="0.400s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-3">
+<rect x="26.0" y="120.0" width="0" height="24">
+<animate attributeName="width" from="0" to="290.2" begin="1.383s" dur="0.514s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-4">
+<rect x="26.0" y="140.0" width="0" height="24">
+<animate attributeName="width" from="0" to="386.9" begin="1.977s" dur="0.686s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-5">
+<rect x="26.0" y="160.0" width="0" height="24">
+<animate attributeName="width" from="0" to="306.3" begin="2.743s" dur="0.543s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-6">
+<rect x="26.0" y="180.0" width="0" height="24">
+<animate attributeName="width" from="0" to="290.2" begin="3.366s" dur="0.514s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-7">
+<rect x="26.0" y="200.0" width="0" height="24">
+<animate attributeName="width" from="0" to="386.9" begin="3.960s" dur="0.686s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-8">
+<rect x="26.0" y="220.0" width="0" height="24">
+<animate attributeName="width" from="0" to="233.7" begin="4.726s" dur="0.414s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-9">
+<rect x="26.0" y="240.0" width="0" height="24">
+<animate attributeName="width" from="0" to="346.6" begin="5.220s" dur="0.614s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-10">
+<rect x="26.0" y="260.0" width="0" height="24">
+<animate attributeName="width" from="0" to="427.2" begin="5.914s" dur="0.757s" fill="freeze" />
+</rect>
+</clipPath>
+<clipPath id="svg-fdcba073bc-clip-11">
+<rect x="26.0" y="280.0" width="0" height="24">
+<animate attributeName="width" from="0" to="306.3" begin="6.751s" dur="0.543s" fill="freeze" />
+</rect>
+</clipPath>
+</defs>
+<g clip-path="url(#svg-fdcba073bc-clip-0)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.200s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="75.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">sankalp03326@github</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-1)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.551s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="95.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">-------------------</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-2)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.903s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="115.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Name      : Sankalp Varshney</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-3)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.383s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="135.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Role      : Senior Software Engineer</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-4)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.977s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="155.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Frontend  : React, Next.js, TypeScript, Tailwind</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-5)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="2.743s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="175.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Backend   : Python, Node.js, PHP, REST</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-6)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="3.366s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="195.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Cloud     : AWS, Azure, DigitalOcean</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-7)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="3.960s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="215.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">DevOps    : Docker, Linux, Nginx, GitHub Actions</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-8)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="4.726s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="235.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Database  : PostgreSQL, MySQL</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-9)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="5.220s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="255.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Learning  : Data Science, AI/ML, Kubernetes</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-10)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="5.914s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="275.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Languages : Python, TypeScript, JavaScript, PHP, Bash</text>
+</g>
+<g clip-path="url(#svg-fdcba073bc-clip-11)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="6.751s" dur="0.010s" fill="freeze" />
+<text x="26.0" y="295.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e6edf3" xml:space="preserve">Tools     : Git, VS Code, Figma, CI/CD</text>
+</g>
+<rect x="335.3" y="281.0" width="7" height="15" rx="1.5" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="1;0;1" begin="7.374s" dur="1s" repeatCount="indefinite" />
+</rect>
+</svg>

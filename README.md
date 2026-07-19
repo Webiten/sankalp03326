@@ -5,8 +5,8 @@
   <p>Architecting enterprise platforms, cloud infrastructure, and automated delivery systems.</p>
 
   <p>
-    <a href="https://github.com/sankalp03326">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sankalp03326-161b22?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" />
+    <a href="https://github.com/Webiten">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Webiten-161b22?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" />
     </a>
     <a href="https://www.linkedin.com/in/sankalp-varshney8445">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
@@ -74,7 +74,7 @@
 
   <h2>Social Links</h2>
   <p>
-    <a href="https://github.com/sankalp03326">github.com/sankalp03326</a>
+    <a href="https://github.com/Webiten">github.com/Webiten</a>
     <br />
     <a href="https://www.linkedin.com/in/sankalp-varshney8445">LinkedIn</a>
   </p>

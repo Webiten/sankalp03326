@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="984" viewBox="0 0 840 984" role="img" aria-labelledby="svg-d6cbc8923f-title svg-d6cbc8923f-desc" style="max-width:100%;height:auto;">
-<title id="svg-d6cbc8923f-title">portrait.asc</title>
-<desc id="svg-d6cbc8923f-desc">Animated ASCII portrait for Sankalp Varshney</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="984" viewBox="0 0 840 984" role="img" aria-labelledby="svg-ad9e321468-title svg-ad9e321468-desc" style="max-width:100%;height:auto;">
+<title id="svg-ad9e321468-title">portrait.asc</title>
+<desc id="svg-ad9e321468-desc">Animated ASCII portrait for Sankalp Varshney</desc>
 <rect width="840" height="984" fill="#0d1117" rx="10" />
 <rect x="0.5" y="0.5" width="839" height="983" rx="10" fill="#0d1117" stroke="#30363d" />
 <path d="M 10 0 H 830 Q 840 0 840 10 V 38 H 0 V 10 Q 0 0 10 0 Z" fill="#161b22" />
@@ -10,589 +10,589 @@
 <circle cx="56" cy="19" r="5.5" fill="#27c93f" />
 <text x="420.0" y="24" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b949e">portrait.asc</text>
 <defs>
-<clipPath id="svg-d6cbc8923f-clip-0">
+<clipPath id="svg-ad9e321468-clip-0">
 <rect x="22.0" y="54.0" width="0" height="18">
 <animate attributeName="width" from="0" to="7.4" begin="0.150s" dur="0.578s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-1">
+<clipPath id="svg-ad9e321468-clip-1">
 <rect x="22.0" y="68.0" width="0" height="18">
 <animate attributeName="width" from="0" to="7.4" begin="0.746s" dur="0.578s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-2">
+<clipPath id="svg-ad9e321468-clip-2">
 <rect x="22.0" y="82.0" width="0" height="18">
 <animate attributeName="width" from="0" to="7.4" begin="1.342s" dur="0.578s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-3">
+<clipPath id="svg-ad9e321468-clip-3">
 <rect x="22.0" y="96.0" width="0" height="18">
 <animate attributeName="width" from="0" to="7.4" begin="1.937s" dur="0.578s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-4">
+<clipPath id="svg-ad9e321468-clip-4">
 <rect x="22.0" y="110.0" width="0" height="18">
 <animate attributeName="width" from="0" to="461.3" begin="2.533s" dur="0.344s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-5">
+<clipPath id="svg-ad9e321468-clip-5">
 <rect x="22.0" y="124.0" width="0" height="18">
 <animate attributeName="width" from="0" to="483.6" begin="2.896s" dur="0.361s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-6">
+<clipPath id="svg-ad9e321468-clip-6">
 <rect x="22.0" y="138.0" width="0" height="18">
 <animate attributeName="width" from="0" to="491.0" begin="3.275s" dur="0.367s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-7">
+<clipPath id="svg-ad9e321468-clip-7">
 <rect x="22.0" y="152.0" width="0" height="18">
 <animate attributeName="width" from="0" to="498.5" begin="3.659s" dur="0.372s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-8">
+<clipPath id="svg-ad9e321468-clip-8">
 <rect x="22.0" y="166.0" width="0" height="18">
 <animate attributeName="width" from="0" to="498.5" begin="4.050s" dur="0.372s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-9">
+<clipPath id="svg-ad9e321468-clip-9">
 <rect x="22.0" y="180.0" width="0" height="18">
 <animate attributeName="width" from="0" to="491.0" begin="4.440s" dur="0.367s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-10">
+<clipPath id="svg-ad9e321468-clip-10">
 <rect x="22.0" y="194.0" width="0" height="18">
 <animate attributeName="width" from="0" to="491.0" begin="4.824s" dur="0.367s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-11">
+<clipPath id="svg-ad9e321468-clip-11">
 <rect x="22.0" y="208.0" width="0" height="18">
 <animate attributeName="width" from="0" to="491.0" begin="5.209s" dur="0.367s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-12">
+<clipPath id="svg-ad9e321468-clip-12">
 <rect x="22.0" y="222.0" width="0" height="18">
 <animate attributeName="width" from="0" to="483.6" begin="5.594s" dur="0.361s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-13">
+<clipPath id="svg-ad9e321468-clip-13">
 <rect x="22.0" y="236.0" width="0" height="18">
 <animate attributeName="width" from="0" to="476.2" begin="5.973s" dur="0.356s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-14">
+<clipPath id="svg-ad9e321468-clip-14">
 <rect x="22.0" y="250.0" width="0" height="18">
 <animate attributeName="width" from="0" to="491.0" begin="6.346s" dur="0.367s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-15">
+<clipPath id="svg-ad9e321468-clip-15">
 <rect x="22.0" y="264.0" width="0" height="18">
 <animate attributeName="width" from="0" to="505.9" begin="6.731s" dur="0.378s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-16">
+<clipPath id="svg-ad9e321468-clip-16">
 <rect x="22.0" y="278.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="7.127s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-17">
+<clipPath id="svg-ad9e321468-clip-17">
 <rect x="22.0" y="292.0" width="0" height="18">
 <animate attributeName="width" from="0" to="550.6" begin="7.539s" dur="0.411s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-18">
+<clipPath id="svg-ad9e321468-clip-18">
 <rect x="22.0" y="306.0" width="0" height="18">
 <animate attributeName="width" from="0" to="558.0" begin="7.968s" dur="0.417s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-19">
+<clipPath id="svg-ad9e321468-clip-19">
 <rect x="22.0" y="320.0" width="0" height="18">
 <animate attributeName="width" from="0" to="565.4" begin="8.403s" dur="0.422s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-20">
+<clipPath id="svg-ad9e321468-clip-20">
 <rect x="22.0" y="334.0" width="0" height="18">
 <animate attributeName="width" from="0" to="572.9" begin="8.843s" dur="0.428s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-21">
+<clipPath id="svg-ad9e321468-clip-21">
 <rect x="22.0" y="348.0" width="0" height="18">
 <animate attributeName="width" from="0" to="580.3" begin="9.289s" dur="0.433s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-22">
+<clipPath id="svg-ad9e321468-clip-22">
 <rect x="22.0" y="362.0" width="0" height="18">
 <animate attributeName="width" from="0" to="580.3" begin="9.740s" dur="0.433s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-23">
+<clipPath id="svg-ad9e321468-clip-23">
 <rect x="22.0" y="376.0" width="0" height="18">
 <animate attributeName="width" from="0" to="587.8" begin="10.192s" dur="0.439s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-24">
+<clipPath id="svg-ad9e321468-clip-24">
 <rect x="22.0" y="390.0" width="0" height="18">
 <animate attributeName="width" from="0" to="587.8" begin="10.649s" dur="0.439s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-25">
+<clipPath id="svg-ad9e321468-clip-25">
 <rect x="22.0" y="404.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="11.106s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-26">
+<clipPath id="svg-ad9e321468-clip-26">
 <rect x="22.0" y="418.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="11.568s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-27">
+<clipPath id="svg-ad9e321468-clip-27">
 <rect x="22.0" y="432.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="12.030s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-28">
+<clipPath id="svg-ad9e321468-clip-28">
 <rect x="22.0" y="446.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="12.493s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-29">
+<clipPath id="svg-ad9e321468-clip-29">
 <rect x="22.0" y="460.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="12.955s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-30">
+<clipPath id="svg-ad9e321468-clip-30">
 <rect x="22.0" y="474.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="13.418s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-31">
+<clipPath id="svg-ad9e321468-clip-31">
 <rect x="22.0" y="488.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="13.880s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-32">
+<clipPath id="svg-ad9e321468-clip-32">
 <rect x="22.0" y="502.0" width="0" height="18">
 <animate attributeName="width" from="0" to="595.2" begin="14.343s" dur="0.444s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-33">
+<clipPath id="svg-ad9e321468-clip-33">
 <rect x="22.0" y="516.0" width="0" height="18">
 <animate attributeName="width" from="0" to="587.8" begin="14.805s" dur="0.439s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-34">
+<clipPath id="svg-ad9e321468-clip-34">
 <rect x="22.0" y="530.0" width="0" height="18">
 <animate attributeName="width" from="0" to="587.8" begin="15.262s" dur="0.439s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-35">
+<clipPath id="svg-ad9e321468-clip-35">
 <rect x="22.0" y="544.0" width="0" height="18">
 <animate attributeName="width" from="0" to="587.8" begin="15.719s" dur="0.439s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-36">
+<clipPath id="svg-ad9e321468-clip-36">
 <rect x="22.0" y="558.0" width="0" height="18">
 <animate attributeName="width" from="0" to="580.3" begin="16.176s" dur="0.433s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-37">
+<clipPath id="svg-ad9e321468-clip-37">
 <rect x="22.0" y="572.0" width="0" height="18">
 <animate attributeName="width" from="0" to="580.3" begin="16.627s" dur="0.433s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-38">
+<clipPath id="svg-ad9e321468-clip-38">
 <rect x="22.0" y="586.0" width="0" height="18">
 <animate attributeName="width" from="0" to="580.3" begin="17.078s" dur="0.433s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-39">
+<clipPath id="svg-ad9e321468-clip-39">
 <rect x="22.0" y="600.0" width="0" height="18">
 <animate attributeName="width" from="0" to="572.9" begin="17.530s" dur="0.428s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-40">
+<clipPath id="svg-ad9e321468-clip-40">
 <rect x="22.0" y="614.0" width="0" height="18">
 <animate attributeName="width" from="0" to="572.9" begin="17.976s" dur="0.428s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-41">
+<clipPath id="svg-ad9e321468-clip-41">
 <rect x="22.0" y="628.0" width="0" height="18">
 <animate attributeName="width" from="0" to="572.9" begin="18.421s" dur="0.428s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-42">
+<clipPath id="svg-ad9e321468-clip-42">
 <rect x="22.0" y="642.0" width="0" height="18">
 <animate attributeName="width" from="0" to="565.4" begin="18.867s" dur="0.422s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-43">
+<clipPath id="svg-ad9e321468-clip-43">
 <rect x="22.0" y="656.0" width="0" height="18">
 <animate attributeName="width" from="0" to="565.4" begin="19.307s" dur="0.422s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-44">
+<clipPath id="svg-ad9e321468-clip-44">
 <rect x="22.0" y="670.0" width="0" height="18">
 <animate attributeName="width" from="0" to="565.4" begin="19.748s" dur="0.422s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-45">
+<clipPath id="svg-ad9e321468-clip-45">
 <rect x="22.0" y="684.0" width="0" height="18">
 <animate attributeName="width" from="0" to="565.4" begin="20.188s" dur="0.422s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-46">
+<clipPath id="svg-ad9e321468-clip-46">
 <rect x="22.0" y="698.0" width="0" height="18">
 <animate attributeName="width" from="0" to="543.1" begin="20.628s" dur="0.406s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-47">
+<clipPath id="svg-ad9e321468-clip-47">
 <rect x="22.0" y="712.0" width="0" height="18">
 <animate attributeName="width" from="0" to="543.1" begin="21.052s" dur="0.406s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-48">
+<clipPath id="svg-ad9e321468-clip-48">
 <rect x="22.0" y="726.0" width="0" height="18">
 <animate attributeName="width" from="0" to="543.1" begin="21.475s" dur="0.406s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-49">
+<clipPath id="svg-ad9e321468-clip-49">
 <rect x="22.0" y="740.0" width="0" height="18">
 <animate attributeName="width" from="0" to="543.1" begin="21.899s" dur="0.406s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-50">
+<clipPath id="svg-ad9e321468-clip-50">
 <rect x="22.0" y="754.0" width="0" height="18">
 <animate attributeName="width" from="0" to="535.7" begin="22.322s" dur="0.400s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-51">
+<clipPath id="svg-ad9e321468-clip-51">
 <rect x="22.0" y="768.0" width="0" height="18">
 <animate attributeName="width" from="0" to="535.7" begin="22.740s" dur="0.400s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-52">
+<clipPath id="svg-ad9e321468-clip-52">
 <rect x="22.0" y="782.0" width="0" height="18">
 <animate attributeName="width" from="0" to="535.7" begin="23.158s" dur="0.400s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-53">
+<clipPath id="svg-ad9e321468-clip-53">
 <rect x="22.0" y="796.0" width="0" height="18">
 <animate attributeName="width" from="0" to="535.7" begin="23.576s" dur="0.400s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-54">
+<clipPath id="svg-ad9e321468-clip-54">
 <rect x="22.0" y="810.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="23.994s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-55">
+<clipPath id="svg-ad9e321468-clip-55">
 <rect x="22.0" y="824.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="24.407s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-56">
+<clipPath id="svg-ad9e321468-clip-56">
 <rect x="22.0" y="838.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="24.819s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-57">
+<clipPath id="svg-ad9e321468-clip-57">
 <rect x="22.0" y="852.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="25.232s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-58">
+<clipPath id="svg-ad9e321468-clip-58">
 <rect x="22.0" y="866.0" width="0" height="18">
 <animate attributeName="width" from="0" to="528.2" begin="25.644s" dur="0.394s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-59">
+<clipPath id="svg-ad9e321468-clip-59">
 <rect x="22.0" y="880.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="26.056s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-60">
+<clipPath id="svg-ad9e321468-clip-60">
 <rect x="22.0" y="894.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="26.463s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-61">
+<clipPath id="svg-ad9e321468-clip-61">
 <rect x="22.0" y="908.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="26.870s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-62">
+<clipPath id="svg-ad9e321468-clip-62">
 <rect x="22.0" y="922.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="27.277s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-63">
+<clipPath id="svg-ad9e321468-clip-63">
 <rect x="22.0" y="936.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="27.684s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
-<clipPath id="svg-d6cbc8923f-clip-64">
+<clipPath id="svg-ad9e321468-clip-64">
 <rect x="22.0" y="950.0" width="0" height="18">
 <animate attributeName="width" from="0" to="520.8" begin="28.091s" dur="0.389s" fill="freeze" />
 </rect>
 </clipPath>
 </defs>
-<g clip-path="url(#svg-d6cbc8923f-clip-0)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-0)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="68.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                                                                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-1)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-1)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="0.746s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="82.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                                                                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-2)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-2)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="1.342s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="96.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                                                                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-3)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-3)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="1.937s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="110.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                                                                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-4)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-4)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="2.533s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="124.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                        I})-!`                                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-5)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-5)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="2.896s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="138.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                     `|ZoW8%&amp;#Zt`                                       </text>
+<text x="22.0" y="138.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                     `|ZoM8%&amp;#Zt`                                       </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-6)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-6)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="3.275s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="152.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    :h$$BW&amp;@$$$$$+                                      </text>
+<text x="22.0" y="152.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    :h$$BM&amp;@$$$$$+                                      </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-7)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-7)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="3.659s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="166.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    j$oLr})/nCw0B$&gt;                                     </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-8)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-8)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="4.050s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="180.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    _Wxcur}+}\ftL$&gt;                                     </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-9)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-9)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="4.440s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="194.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    -LtuJLf_LwZJJL                                      </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-10)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-10)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="4.824s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="208.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                    iz[_tu]_|1[[zx                                      </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-11)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-11)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="5.209s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="222.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                     zdYdbOwpCtcC"                                      </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-12)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-12)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="5.594s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="236.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                     l%&amp;XUZLcQ&amp;%&gt;                                       </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-13)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-13)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="5.973s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="250.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                     ,v$$$$$B$$+                                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-14)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-14)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="6.346s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="264.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                                  ~uM$XLk&amp;888bXcX[                                      </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-15)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-15)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="6.731s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="278.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                              `~ub@$onXxnvrnnjnQdWM)                                    </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-16)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-16)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="7.127s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="292.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                           +jOW$$$&amp;$r`-\jxXXuux/l'Q$w|i                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-17)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-17)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="7.539s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="306.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                         (p*M##%$$$$)";:l&gt;+__!I"`.+M%8#wj,                              </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-18)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-18)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="7.968s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="320.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                        U8W*hM&amp;BBB$8&gt;,l!,;ll,":;,.`c8B$$$#_                             </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-19)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-19)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="8.403s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="334.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                       U$MW&amp;&amp;W8M&amp;W&amp;b",,l;&lt;?&gt;;::"^''rM%@*aM&amp;(                            </text>
+<text x="22.0" y="334.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                       U$MW&amp;&amp;W8M&amp;M&amp;b",,l;&lt;?&gt;;::"^''rM%@*aM&amp;(                            </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-20)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-20)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="8.843s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="348.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      |$WB8B$$##M#&amp;O"I:,i][&gt;I"^""^:U@88&amp;*W&amp;B[                           </text>
+<text x="22.0" y="348.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      |$WB8B$$##M#&amp;O"I:,i][&gt;I"^""^:U@88&amp;*M&amp;B[                           </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-21)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-21)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="9.289s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="362.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     "o%BB8B$BoMW*BJ"!&gt;l+[{~"I,"":+q%*&amp;B&amp;%8B&amp;l                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-22)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-22)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="9.740s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="376.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     UBWB$@$$M#&amp;%M@0l!&gt;+]_)?Ii&lt;!I!{a&amp;*%$@$$%$d                          </text>
+<text x="22.0" y="376.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     UBMB$@$$M#&amp;%M@0l!&gt;+]_)?Ii&lt;!I!{a&amp;*%$@$$%$d                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-23)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-23)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="10.192s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="390.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    )@M88$$$$*M8B*80?iI_]!-)!?[-1}tM8M%$$$%&amp;%$}                         </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-24)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-24)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="10.649s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="404.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   `a&amp;&amp;8BB$$Bo#8B#%J-II&lt;+~l|&gt;&lt;]?})x8&amp;M&amp;$$$8%%$Q                         </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-25)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-25)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="11.106s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="418.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   \&amp;o88B$$$Wo#%$W%c],I-+!i[+I+-+/X&amp;&amp;#&amp;$$B%8%8&amp;l                        </text>
+<text x="22.0" y="418.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   \&amp;o88B$$$Wo#%$M%c],I-+!i[+I+-+/X&amp;&amp;#&amp;$$B%8%8&amp;l                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-26)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-26)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="11.568s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="432.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   b$B%8%$$$Mh#8$WWt);!?&lt;Ii--I~+&lt;(ZMM##$$B&amp;88W$n                        </text>
+<text x="22.0" y="432.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   b$B%8%$$$Mh#8$WMt);!?&lt;Ii--I~+&lt;(ZMM##$$B&amp;88M$n                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-27)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-27)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="12.030s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="446.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   u$8@B$$$$&amp;a#%$&amp;o1{li_&gt;~I-)il~&lt;_mM#aW$$@B8M#$w                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-28)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-28)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="12.493s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="460.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   ?$&amp;B$$$$$&amp;a#%$&amp;kt?I"&lt;~_+_}?l~&lt;iL8#oW$$B88%B$Z                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-29)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-29)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="12.955s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="474.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   |8*MB$$$$MoMB$8p|+l"I&lt;}?]{?i!++LM#o%$$$$$$@$U                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-30)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-30)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="13.418s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="488.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   O8#&amp;8$$$$W#&amp;@$Bd)&gt;l:"i_+{)_&gt;I&lt;)ZWM*@$$$$%BB$[                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-31)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-31)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="13.880s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="502.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   JzxcCd$$$&amp;M8$$@b\ii;,,&lt;+&lt;?]&lt;lI[h%&amp;#$$$%8MMWM:                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-32)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-32)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="14.343s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="516.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  "Uj\txLch$&amp;&amp;B$$$q\_&lt;I:`;_i~?-i"rB8&amp;#$$$$B%8W#"                        </text>
+<text x="22.0" y="516.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  "Uj\txLch$&amp;&amp;B$$$q\_&lt;I:`;_i~?-i"rB8&amp;#$$$$B%8M#"                        </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-33)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-33)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="14.805s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="530.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  :LxfrJC+888%B$$$oL/{~;,,&gt;i&gt;_-+!nB88&amp;d$@MWB@$p                         </text>
+<text x="22.0" y="530.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  :LxfrJC+888%B$$$oL/{~;,,&gt;i&gt;_-+!nB88&amp;d$@MMB@$p                         </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-34)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-34)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="15.262s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="544.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ,Cr\rw_J$8@@$$$$qUUnr],^lii~__&lt;/@B8$]|wxtxYor                         </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-35)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-35)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="15.719s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="558.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  :Qx/YY!$@$$$$$$$J|(-|r/l:&lt;l&gt;+{_C$@%$0Ipr)1/X,                         </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-36)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-36)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="16.176s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="572.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  :mnt0}j$B$$$$$$$m{l:,!_]&gt;;``:_tb$BB$$~Jr[|xu                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-37)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-37)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="16.627s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="586.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ;qQCp{p$%B%88B@$bt?-~i_)r(&gt;`'Iu&amp;B@@@$trn]\U)                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-38)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-38)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="17.078s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="600.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ioLcLh$$B%&amp;WW88$O_+?(\jvvvnt1-/8@$@$$j\utnCI                          </text>
+<text x="22.0" y="600.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ioLcLh$$B%&amp;MW88$O_+?(\jvvvnt1-/8@$@$$j\utnCI                          </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-39)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-39)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="17.530s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="614.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ^CzjfX8$$88&amp;8%&amp;$C&lt;;;Ilii~+~~+?cB@@$$$u|\/cz                           </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-40)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-40)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="17.976s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="628.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   xx)1[}c%@&amp;&amp;&amp;%%B$hLut|]_+~+?}\Z$B@B$$a|{{v|                           </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-41)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-41)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="18.421s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="642.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  -c/){(v|Y$&amp;&amp;&amp;8B$$$$$$BWWbZZpo$$&amp;BB$$w\|/nCI                           </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-42)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-42)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="18.867s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="656.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                  ]vnr(rmXc@B&amp;%88$$$$$$@$$$$$$$$B&amp;%$b\&lt;&gt;?{nc                            </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-43)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-43)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="19.307s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="670.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                   '+XQjnJjOBM&amp;8%$$$$$$$$%&amp;8B$$$&amp;8$Z}u)&lt;_}nt                            </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-44)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-44)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="19.748s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="684.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      1ZC&amp;*M$88@B$$B$8$$$WW%@$$$&amp;%CtYm(-}/C)                            </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-45)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-45)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="20.188s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="698.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      I$$$$$B8M#&amp;8&amp;&amp;8&amp;$$$M&amp;8%@$$%8nZQxcJLr{.                            </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-46)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-46)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="20.628s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="712.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      |$$B8B%8&amp;W88&amp;W88$$$88&amp;%@$$$$$$Wao#?                               </text>
+<text x="22.0" y="712.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      |$$B8B%8&amp;M88&amp;M88$$$88&amp;%@$$$$$$Mao#?                               </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-47)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-47)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="21.052s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="726.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      J$$BBB%88&amp;&amp;&amp;&amp;&amp;%8$$$8&amp;888%@$$$$$$$@'                               </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-48)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-48)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="21.475s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="740.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      h$$BBB%%&amp;8&amp;WWW&amp;%$$$%8&amp;&amp;&amp;W&amp;8BB@@@$8,                               </text>
+<text x="22.0" y="740.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                      h$$BBB%%&amp;8&amp;WWM&amp;%$$$%8&amp;&amp;&amp;M&amp;8BB@@@$8,                               </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-49)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-49)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="21.899s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="754.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     "B$$@@BBB&amp;&amp;&amp;&amp;&amp;8B$$$$@8&amp;&amp;W88B$$$@$$W^                               </text>
+<text x="22.0" y="754.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     "B$$@@BBB&amp;&amp;&amp;&amp;&amp;8B$$$$@8&amp;&amp;W88B$$$@$$M^                               </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-50)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-50)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="22.322s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="768.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     _$$$@$$@%%8&amp;&amp;8%@$$$$B88&amp;8888%B$$$$a                                </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-51)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-51)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="22.740s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="782.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     ($$$$B$$BBB%B$$$$$$$$B8&amp;WW&amp;8B$$$$$0                                </text>
+<text x="22.0" y="782.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     ($$$$B$$BBB%B$$$$$$$$B8&amp;MM&amp;8B$$$$$0                                </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-52)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-52)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="23.158s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="796.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     n$$$$$@$$@@BB$$$$$$$$%8&amp;##W8%@$$$$/                                </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-53)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-53)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="23.576s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="810.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     U$$$$$$B@@B%%@@$$$$$@%8&amp;MW88B@$$$$!                                </text>
+<text x="22.0" y="810.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     U$$$$$$B@@B%%@@$$$$$@%8&amp;MM88B@$$$$!                                </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-54)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-54)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="23.994s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="824.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     w$$$$$$$$$@BB@@$$$$$@%8&amp;WW&amp;8%$@$$d                                 </text>
+<text x="22.0" y="824.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     w$$$$$$$$$@BB@@$$$$$@%8&amp;WM&amp;8%$@$$d                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-55)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-55)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="24.407s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="838.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     k$$$$@B$$$$$@$$$$$$$$B&amp;W&amp;&amp;M&amp;B$$$$v                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-56)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-56)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="24.819s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="852.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                     *$$$$B$B@$@@$$$$$$$$$$B&amp;&amp;&amp;&amp;&amp;8B$$$}                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-57)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-57)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="25.232s" dur="0.010s" fill="freeze" />
-<text x="22.0" y="866.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    'W$$$$@$@@@@$$$$$$$$$$$$B8&amp;8&amp;8BB$%!                                 </text>
+<text x="22.0" y="866.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    'M$$$$@$@@@@$$$$$$$$$$$$B8&amp;8&amp;8BB$%!                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-58)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-58)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="25.644s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="880.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    "8$$$$$B$$$$$$$$$$$$$$$@%B%%8%B$$*`                                 </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-59)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-59)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="26.056s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="894.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    I@$$$$$$$$$$$$$$$$$$$$$$@B%BB%$$$L                                  </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-60)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-60)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="26.463s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="908.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    !$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$${                                  </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-61)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-61)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="26.870s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="922.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    &gt;@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$_                                  </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-62)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-62)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="27.277s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="936.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    &gt;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$t                                  </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-63)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-63)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="27.684s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="950.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    l@$$@$$$$$$$$$$$$$$$$$$$$$$$$$$$$C                                  </text>
 </g>
-<g clip-path="url(#svg-d6cbc8923f-clip-64)" opacity="0">
+<g clip-path="url(#svg-ad9e321468-clip-64)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="28.091s" dur="0.010s" fill="freeze" />
 <text x="22.0" y="964.0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#d4d4d4" xml:space="preserve">                                    '#$$$$$$$$$$$$$$$$B$$$$$$$$$$$$$$q                                  </text>
 </g>
